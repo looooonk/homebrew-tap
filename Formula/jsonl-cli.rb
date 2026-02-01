@@ -13,4 +13,3 @@ class JsonlCli < Formula
     virtualenv_install_with_resources
   end
 end
-
