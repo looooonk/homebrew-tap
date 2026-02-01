@@ -3,8 +3,8 @@ class JsonlCli < Formula
 
   desc "CLI JSONL viewer"
   homepage "https://github.com/looooonk/jsonl-viewer"
-  url "https://github.com/looooonk/jsonl-viewer/archive/refs/tags/v0.1.0.tar.gz"
-  sha256 "bfd14cd3a1f89e189385f4629168ec0035305a876f042aa810d15c491878ac62"
+  url "https://github.com/looooonk/jsonl-viewer/archive/refs/tags/v0.1.1.tar.gz"
+  sha256 "685f8e8677edca82be78f766003996a15825febbc51512d3ab878e2a0dd60662"
   license "MIT"
 
   depends_on "python@3.12"
