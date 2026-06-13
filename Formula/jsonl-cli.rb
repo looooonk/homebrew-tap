@@ -4,7 +4,7 @@ class JsonlCli < Formula
   desc "CLI JSONL viewer"
   homepage "https://github.com/looooonk/jsonl-viewer"
   url "https://github.com/looooonk/jsonl-viewer/archive/refs/tags/v0.1.2.tar.gz"
-  sha256 "da17f5c694246be36499dfba1505b4b51368a67a3bd87a3706d04254fa1e436b"
+  sha256 "577a03b8ffd37152f4eab830896369f3b357c4b9d63e2c7ce06de2766c2d3ca9"
   license "MIT"
 
   depends_on "python@3.12"
